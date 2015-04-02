@@ -1,0 +1,27 @@
+{
+  "name": "aviary-editor",
+  "main": "aviary-editor.js",
+  "version": "3.1.0",
+  "homepage": "https://github.com/plyfe/aviary-editor",
+  "authors": [
+    "Manuel Familia <manolo@plyfe.me>"
+  ],
+  "description": "Javascript Aviary Editor",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "aviary",
+    "editor",
+    "image",
+    "photo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
